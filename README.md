@@ -45,4 +45,4 @@
 
 - Number of candidates from various categories. (General does win).
 
-### Please feel free to hover over the charts and find out more!!
+### Please feel free to check my notebook and hover over these charts to gain more insights.
